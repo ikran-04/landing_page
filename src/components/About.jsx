@@ -9,7 +9,7 @@ const About = () => {
         <div className="md:w-1/3 space-y-5">
           <p className="text-green-500 font-semibold">About Us</p>
           <h1 className="text-3xl md:text-5xl font-bold">
-            Boots Your Bussiness With 8kra
+            Boots Your Bussiness With Us 
           </h1>
           <p className="text-sm md:text-base text-gray-500">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis

@@ -6,7 +6,7 @@ import { BsCheck2Circle } from "react-icons/bs";
 import { FaLaptopCode } from "react-icons/fa";
 const Services = () => {
   return (
-    <div className="w-full bg-[url('/servi.jpg')] bg-cover my-10">
+    <div className="w-full bg-[url('/serv.jpg')] bg-cover my-10">
       <div className="w-11/12 md:w-4/5 m-auto flex flex-col md:flex-row items-center space-y-10 md:space-y-0 md:space-x-52 py-10">
         <div className="md:w-1/2 2xl:w-1/3 flex flex-col md:flex-row space-y-10 md:space-y-0 md:space-x-10 ">
           <div className="space-y-10 mt-52">

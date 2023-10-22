@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="w-11/12 md:w-4/5 m-auto py-5 flex justify-between item-center">
-      <h1 className="text-4xl font-bold text-green-600">8kra</h1>
+      <h1 className="text-4xl font-bold text-green-600"><img src="/logo.png" alt="" className="w-16 h-16" /></h1>
       <ul className="flex items-center space-x-2 text-sm md:text-base md:space-x-8 text-cyan-800 md:text-cyan-100 hidden md:flex">
         <li>Home</li>
         <li>Our Work</li>

@@ -3,7 +3,7 @@ import React from "react";
 import { AiFillStar } from "react-icons/ai";
 const Feedback = () => {
   return (
-    <div className="bg-[url('/fedback.jpg')] bg-cover py-20">
+    <div className="bg-[url('/feedback.jpg')] bg-cover py-20">
       <div className="flex flex-col items-center ">
         <h1 className="font-bold text-xl">TESTIMONIAL</h1>
         <h1 className="font-bold text-2xl text-green-500">
@@ -26,7 +26,7 @@ const Feedback = () => {
             <AiFillStar />
           </div>
           <div>
-            <h1 className="font-bold text-base md:text-xl">Ikran Hashi</h1>
+            <h1 className="font-bold text-base md:text-xl">John Doe</h1>
             <p className="text-xs md:text-sm text-gray-500">
               Web Developer|UI/UX Designer
             </p>

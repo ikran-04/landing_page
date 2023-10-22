@@ -5,8 +5,8 @@ const Footer = () => {
   return (
     <div className="w-full bg-gray-100 py-20">
       <div className="w-11/12 md:w-4/5 m-auto grid grid-cols-2 md:flex justify-between items-start">
-        <div className="md:w-1/3">
-          <h1 className="text-5xl font-bold text-green-500">8kra</h1>
+        <div className="md:w-1/3"> 
+      <h1 className="text-4xl font-bold text-green-600"><img src="/logo.png" alt="" className="w-16 h-16" /></h1>
           <p className="text-gray-500 py-2 text-xs md:text-sm">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio
             eum sed nulla cum dignissimos. Debitis?
@@ -35,8 +35,8 @@ const Footer = () => {
         <div className="space-y-4">
           <h1 className="text-2xl font-bold">Our Addres</h1>
           <div>
-            <p>ikran@gmail.com</p>
-            <p>www.ikran.com</p>
+            <p>Doe@gmail.com</p>
+            <p>www.john.com</p>
           </div>
           <div className="flex space-x-8 items-center text-gray-500">
             <AiFillInstagram size={28} />
